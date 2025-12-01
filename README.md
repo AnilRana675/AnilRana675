@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./banner.png" width="800" alt="Anil Magar Digital Garden Banner" />
-</div>
+
 
 <div align="center">
   <br />
