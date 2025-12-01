@@ -79,11 +79,12 @@ A revolutionary platform connecting farmers with modern agricultural solutions. 
 
 <div align="center">
   
-![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilRana675&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8CFF&icon_color=3F8CFF&text_color=C9D1D9)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnilRana675&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8CFF&icon_color=3F8CFF&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilRana675&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8CFF&text_color=C9D1D9&langs_count=8"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilRana675&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8CFF&text_color=C9D1D9)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilRana675&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8CFF&fire=3F8CFF&currStreakLabel=3F8CFF" alt="GitHub Streak"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnilRana675&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8CFF&fire=3F8CFF&currStreakLabel=3F8CFF)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilRana675&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8CFF&line=3F8CFF&point=FFFFFF" alt="Contribution Graph"/>
 
 </div>
 
