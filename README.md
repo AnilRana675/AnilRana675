@@ -22,7 +22,7 @@ When I'm not deploying containers or training models, I'm probably clutching a r
     <td width="60%" valign="top">
       <h3>🏆 The Highlight Reel</h3>
       <br />
-      <b>� Top 14 Finalist - ICT Award 2025 (Rising Star)</b><br />
+      <b>🌠 Top 14 Finalist - ICT Award 2025 (Rising Star)</b><br />
       Recognized for innovation and impact in the tech sector.
       <br /><br />
       <b>🌾 Agro Connect</b><br />
@@ -34,7 +34,7 @@ When I'm not deploying containers or training models, I'm probably clutching a r
       Top-tier academic performance mixed with real-world application.
     </td>
     <td width="40%" valign="top">
-      <h3>� The Data</h3>
+      <h3>⚡ The Data</h3>
       <br />
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilRana675&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8CFF&line=3F8CFF&point=FFFFFF" width="100%" />
       <br /><br />
