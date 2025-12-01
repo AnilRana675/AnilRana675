@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Anil Magar Digital Garden Banner" />
+  <img src="./banner.png" width="800" alt="Anil Magar Digital Garden Banner" />
 </div>
 
 <div align="center">
