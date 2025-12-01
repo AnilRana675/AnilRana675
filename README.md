@@ -133,7 +133,9 @@ I'm always excited to collaborate on interesting projects, discuss tech, or just
 
 ### 📈 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/AnilRana675/count.svg)
+<img src="https://komarev.com/ghpvc/?username=AnilRana675&label=Profile%20Views&color=3F8CFF&style=for-the-badge" alt="Profile Views" />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnilRana675&count_bg=%233F8CFF&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
