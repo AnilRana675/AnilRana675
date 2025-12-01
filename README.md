@@ -82,9 +82,13 @@ A revolutionary platform connecting farmers with modern agricultural solutions. 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilRana675&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8CFF&line=3F8CFF&point=FFFFFF" alt="Contribution Graph" width="95%"/>
 
-### 🔥 Streak & Statistics
+### 🔥 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilRana675&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8CFF&fire=3F8CFF&currStreakLabel=3F8CFF" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnilRana675&theme=tokyonight" alt="Profile Details" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnilRana675&theme=tokyonight" alt="Stats" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnilRana675&theme=tokyonight&utcOffset=5.75" alt="Productive Time" width="48%"/>
 </p>
 
