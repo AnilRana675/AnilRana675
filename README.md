@@ -1,146 +1,111 @@
 <div align="center">
+  <img src="./banner.png" width="100%" alt="Anil Magar Digital Garden Banner" />
+</div>
+
+<div align="center">
+  <br />
+  <h1>🚀 Architecting the Future of Tech in Nepal</h1>
+  <h3>Backend Developer • AI Enthusiast • 2025 ICT Award Rising Star Finalist</h3>
+  <br />
+</div>
+
+---
+
+### ⚡ The Mission
+
+I'm **Anil Magar**, a builder at heart. I don't just write code; I engineer solutions that solve real problems. Currently, I'm bridging the gap between **traditional agriculture and modern AI** with *Agro Connect*, while pushing the boundaries of what's possible in the **MERN stack** and **Django**.
+
+When I'm not deploying containers or training models, I'm probably clutching a round in **Valorant** or analyzing the soundstage of a new track. 🎧
+
+---
+
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🏆 The Highlight Reel</h3>
+      <br />
+      <b>� Top 14 Finalist - ICT Award 2025 (Rising Star)</b><br />
+      Recognized for innovation and impact in the tech sector.
+      <br /><br />
+      <b>🌾 Agro Connect</b><br />
+      <i>Founder & Lead Developer</i><br />
+      A revolutionary platform empowering Nepalese farmers with AI-driven insights and direct market access.
+      <br /><br />
+      <b>🎓 Academia International College</b><br />
+      <i>BSc.CSIT Scholar</i><br />
+      Top-tier academic performance mixed with real-world application.
+    </td>
+    <td width="40%" valign="top">
+      <h3>� The Data</h3>
+      <br />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilRana675&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8CFF&line=3F8CFF&point=FFFFFF" width="100%" />
+      <br /><br />
+      <img src="https://komarev.com/ghpvc/?username=AnilRana675&label=Profile%20Views&color=3F8CFF&style=for-the-badge" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ The Arsenal (Loadout)
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>CORE ENGINE</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,js,cpp&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=django,react,nodejs,express&theme=dark" />
+    </td>
+    <td align="center" width="33%">
+      <b>INFRA & TOOLS</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=aws,postman,vscode&theme=dark" />
+    </td>
+    <td align="center" width="33%">
+      <b>INTELLIGENCE</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mongodb,postgres&theme=dark" /><br/>
+      <i>Exploring the frontiers of AI/ML</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎮 Side Quests & Vibes
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b>🎧 Audiophile Rotation</b><br/>
+      I believe code has a rhythm. Always hunting for that perfect high-fidelity sound.<br/><br/>
+      <i>"Music is the shorthand of emotion."</i>
+    </td>
+    <td width="50%">
+      <b>🕹️ Competitive Edge</b><br/>
+      <b>Main:</b> Valorant (FPS)<br/>
+      <b>Style:</b> Strategic, Story-driven<br/>
+      <i>Bringing the same tactical mindset from the server to the codebase.</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <br />
+  <h3>🤝 Ready to Build Something Incredible?</h3>
+  <p>Let's talk tech, startups, or just share playlists.</p>
   
-# 👋 Hey there, I'm Anil Magar!
-
-### 🚀 Student | 💻 Backend Developer | 🎨 Design Enthusiast | ☁️ DevOps Explorer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Building+the+Future+%F0%9F%8C%9F;MERN+%7C+Django+%7C+AI%2FML;Top+14+ICT+Award+2025!;Code.+Create.+Innovate.+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🌟 About Me
-
-```javascript
-const anil = {
-    location: "Lalitpur, Nepal 🇳🇵",
-    education: "BSc.CSIT @ Academia International College (TU)",
-    passions: ["Backend Development", "DevOps", "Design", "AI/ML"],
-    currentFocus: "Building intelligent solutions with AI/ML",
-    achievement: "🏆 Top 14 - ICT Award 2025 (Rising Star Category)",
-    funFact: "When I'm not coding, you'll find me fragging in Valorant 🎮 or lost in music 🎵"
-};
-```
-
----
-
-## 🎯 What I'm Up To
-
-- 🔭 **Currently Working On:** AI/ML projects and expanding my tech horizons
-- 🌱 **Learning:** DevOps practices, advanced backend architecture, and machine learning
-- 🏆 **Achievement Unlocked:** Top 14 finalist in ICT Award 2025 (Rising Star) with **Agro Connect**
-- 💡 **Building:** Solutions that make a real-world impact
-- 🎓 **Studying:** BSc.CSIT (Tribhuvan University) - Where theory meets practice!
-
----
-
-## 💻 Tech Stack & Tools
-
-<div align="center">
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Currently Exploring
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-### 🌾 [Agro Connect](https://github.com/AnilRana675)
-> 🏆 **Top 14 Finalist - ICT Award 2025 (Rising Star Category)**
-
-A revolutionary platform connecting farmers with modern agricultural solutions. Built with passion by our amazing team, Agro Connect bridges the gap between technology and agriculture, empowering farmers across Nepal.
-
-**Tech Stack:** MERN Stack | AI/ML Integration | Modern Web Architecture
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilRana675&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8CFF&line=3F8CFF&point=FFFFFF" alt="Contribution Graph" width="95%"/>
-
-### 🔥 GitHub Statistics
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnilRana675&theme=tokyonight" alt="Profile Details" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnilRana675&theme=tokyonight" alt="Stats" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnilRana675&theme=tokyonight&utcOffset=5.75" alt="Productive Time" width="48%"/>
-</p>
-
-### 💻 Most Used Languages
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnilRana675&theme=tokyonight" alt="Top Languages" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnilRana675&theme=tokyonight" alt="Commit Languages" width="48%"/>
-
-</div>
-
----
-
-## 🎮 Beyond The Code
-
-When I'm not architecting backends or deploying containers, you'll find me:
-
-- 🎮 **Gaming:** Dominating in Valorant and diving into immersive story-driven games
-- 🎵 **Music:** Audiophile at heart - always on the hunt for the perfect sound
-- 🌱 **Learning:** Exploring new technologies and staying curious
-- 💡 **Creating:** Designing solutions that blend functionality with aesthetics
-
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on interesting projects, discuss tech, or just chat about games and music! 
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amagar675@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anil_magaar/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/698387666525356064)
-
-</div>
-
----
-
-<div align="center">
+  <a href="mailto:amagar675@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-3F8CFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/anil_magaar/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/698387666525356064">
+    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <br /><br />
   
-### 💭 Quote I Live By
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 📈 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=AnilRana675&label=Profile%20Views&color=3F8CFF&style=for-the-badge" alt="Profile Views" />
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnilRana675&count_bg=%233F8CFF&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
----
-
-**⚡ "Code is like humor. When you have to explain it, it's bad!" - Cory House**
-
-*Thanks for stopping by! Feel free to reach out - let's build something amazing together! 🚀*
-
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
