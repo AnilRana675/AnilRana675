@@ -78,13 +78,19 @@ A revolutionary platform connecting farmers with modern agricultural solutions. 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnilRana675&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8CFF&icon_color=3F8CFF&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilRana675&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8CFF&text_color=C9D1D9&langs_count=8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilRana675&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8CFF&fire=3F8CFF&currStreakLabel=3F8CFF" alt="GitHub Streak"/>
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilRana675&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8CFF&line=3F8CFF&point=FFFFFF" alt="Contribution Graph" width="95%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilRana675&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8CFF&line=3F8CFF&point=FFFFFF" alt="Contribution Graph"/>
+### 🔥 Streak & Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilRana675&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8CFF&fire=3F8CFF&currStreakLabel=3F8CFF" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnilRana675&theme=tokyonight&utcOffset=5.75" alt="Productive Time" width="48%"/>
+</p>
+
+### 💻 Most Used Languages
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnilRana675&theme=tokyonight" alt="Top Languages" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnilRana675&theme=tokyonight" alt="Commit Languages" width="48%"/>
 
 </div>
 
