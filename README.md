@@ -6,7 +6,7 @@
 <div align="center">
   <!-- Animated Typing Text -->
   <a href="https://github.com/AnilRana675">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&pause=1000&color=bb9af7&center=true&vCenter=true&width=600&lines=🚀+Backend+Developer+%26+AI+Enthusiast;🌾+Founder+of+Agro+Connect;🏆+2025+ICT+Award+Rising+Star;🎮+Valorant+Tactician" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&pause=1000&color=bb9af7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Backend+Developer+%26+AI+Enthusiast;%F0%9F%8C%BE+Founder+of+Agro+Connect;%F0%9F%8F%86+2025+ICT+Award+Rising+Star;%F0%9F%8E%AE+Valorant+Tactician" alt="Typing SVG" />
   </a>
   <br>
   <!-- Profile Views Badge -->
@@ -72,5 +72,5 @@
   </a>
   <br><br>
   <!-- Outro animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=16&pause=1000&color=bb9af7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Have+a+great+day+ahead!+✨" alt="Outro SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=16&pause=1000&color=bb9af7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Have+a+great+day+ahead!+%E2%9C%A8" alt="Outro SVG" />
 </div>
